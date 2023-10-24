@@ -1,1 +1,18 @@
-{}
+{
+    "GSUSSO": {
+        "projectName": "GSUSSO",
+        "description": "Initial Testing for modernizing GSU Federated Access",
+        "type": "community",
+        "author": "vbraziel",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/vbraziel/agmaInstall",
+        "githubUri": "https://github.com/vbraziel/agmaInstall",
+        "license": "apache-2.0",
+        "lastUpdated": "1698179974588",
+        "tags": [
+            "Testing"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
+    }
+}
